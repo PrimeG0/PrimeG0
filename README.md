@@ -1,47 +1,56 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=9999999&color=00E5FF&center=true&vCenter=true&width=720&lines=PrimeG;Frontend+Developer;Designing+the+Neon+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2400&pause=9999999&color=FF00CC&center=true&vCenter=true&width=850&lines=PRIMEG;FRONTEND+DEVELOPER;CRAFTING+NEON+WEB+EXPERIENCES" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrimeG&style=for-the-badge&color=00e5ff" />
+  <img src="https://komarev.com/ghpvc/?username=PrimeG0&style=for-the-badge&color=ff00cc" />
 </p>
 
 ---
 
-## 🌌 About Me
+<div align="center">
 
-I build **modern frontend experiences** that feel fast, intentional, and alive.  
-My work sits at the intersection of **design, motion, and performance**.
+## ⚡ Interfaces that move. Code that lasts.
 
-I enjoy crafting interfaces that are visually striking without being noisy —  
-where animations guide attention and code stays readable.
-
-Always learning. Always refining. Always building.
+</div>
 
 ---
 
-## ⚡ Tech I Work With
+## 🌐 About Me
+
+I’m **PrimeG**, a frontend developer who enjoys building **bold, interactive, and visually sharp** web experiences.
+
+I focus on:
+- motion that feels intentional  
+- layouts that guide attention  
+- code that stays readable and scalable  
+
+I believe great UI isn’t loud — it’s **confident**.
+
+---
+
+## 🧬 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0B0B0B?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-0B0B0B?style=for-the-badge&logo=greensock&logoColor=88CE02" />
-  <img src="https://img.shields.io/badge/Three.js-0B0B0B?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Three.js-0A0A0A?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Supabase-0B0B0B?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05033" />
-  <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-0B0B0B?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
 ---
@@ -49,28 +58,30 @@ Always learning. Always refining. Always building.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrimeG&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=bfbfbf" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeG&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrimeG0&show_icons=true&theme=transparent&hide_border=true&title_color=ff00cc&icon_color=ff00cc&text_color=e0e0e0" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeG0&theme=transparent&hide_border=true&ring=ff00cc&fire=ff00cc" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeG&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=bfbfbf" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeG0&layout=compact&theme=transparent&hide_border=true&title_color=ff00cc&text_color=e0e0e0" />
 </p>
 
 ---
 
-## ✨ Philosophy
+## ⚔️ Principles I Code By
 
-- Design should guide, not distract  
-- Animations should add meaning  
-- Code should be readable before clever  
-- Simplicity scales better than complexity  
+- Visuals should support function  
+- Motion should guide, not distract  
+- Simple solutions scale better  
+- If it feels average, it’s not done  
 
 ---
 
-<p align="center">
-  <i>Building interfaces that glow — without burning the eyes.</i>
-</p>
+<div align="center">
+
+### 🌃 Designing the future — one interaction at a time.
+
+</div>
 
 <pre align="center">
 ██████╗ ██████╗ ██╗███╗   ███╗███████╗ ██████╗
