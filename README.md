@@ -55,19 +55,6 @@ I believe great UI isn’t loud — it’s **confident**.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrimeG0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=PrimeG0&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeG0&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ## ⚔️ Principles I Code By
 
 - Visuals should support function  
