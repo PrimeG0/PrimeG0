@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I’m a Student & Frontend Developer
 
-<!--
-**PrimeG0/PrimeG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate about building modern, responsive, and interactive web experiences
+🎯 Focused on clean UI, smooth animations, and great user experience
 
-Here are some ideas to get you started:
+🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend Development
+
+🎨 UI-focused designs with animations
+
+⚡ Performance-optimized web apps
+
+🛠️ Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+📚 Currently
+
+🌱 Learning new frameworks & tools every day
+
+🔍 Exploring advanced animations and web performance
+
+🧠 Improving problem-solving and clean coding practices
+
+🎯 My Goal
+
+To grow as a skilled frontend developer, build meaningful projects, and stay curious in the ever-evolving world of web development.
