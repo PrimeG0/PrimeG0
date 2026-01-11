@@ -58,12 +58,12 @@ I believe great UI isn’t loud — it’s **confident**.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrimeG0&show_icons=true&theme=transparent&hide_border=true&title_color=ff00cc&icon_color=ff00cc&text_color=e0e0e0" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeG0&theme=transparent&hide_border=true&ring=ff00cc&fire=ff00cc" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrimeG0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=PrimeG0&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeG0&layout=compact&theme=transparent&hide_border=true&title_color=ff00cc&text_color=e0e0e0" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeG0&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
